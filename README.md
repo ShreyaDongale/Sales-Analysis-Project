@@ -15,4 +15,9 @@ This project analyzes sales data using Power BI to generate meaningful business 
 - Data visualization
 
 ## Project File
-The Power BI dashboard file (.pbix) is available in this repository.
+The Power BI dashboard file (.pbix) is available in this repository
+
+##Dashboard Preview
+1st page.png
+2nd page.png
+3rd page.png
